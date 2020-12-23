@@ -1,5 +1,3 @@
-go-lang-rest-api
-
 ## Getting Started
 This is basic implementation of RestFull API based on GO Lang.
 
